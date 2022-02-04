@@ -2,13 +2,3 @@ adasdsad
 asdasd
 asd
 asd
-
-
-Szeretem Jult.
-
-
-<<<<<<< HEAD
-asdasdsadas
-=======
-Szeretem Karcsit!
->>>>>>> 9dbc37dd428c1ada74ad4e61df33f8f5c5c78576
