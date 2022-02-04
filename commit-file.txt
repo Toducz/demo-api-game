@@ -1,0 +1,1 @@
+2022-02-04 11:35,2022-02-04 13:05,"Git pull, push add",Merge megtanulni

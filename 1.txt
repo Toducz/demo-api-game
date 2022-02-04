@@ -4,11 +4,18 @@ asd
 asd
 
 
+<<<<<<< HEAD
+=======
+asdasd
+>>>>>>> 999aa1db4437b1c9fe0cb420017668faf4589358
 
 
 asdasd
 
 asdasd
+<<<<<<< HEAD
 
 
 asdasdas
+=======
+>>>>>>> 999aa1db4437b1c9fe0cb420017668faf4589358
